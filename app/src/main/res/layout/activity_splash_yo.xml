@@ -12,8 +12,12 @@
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
         android:scaleType="fitXY"
+<<<<<<< HEAD
         android:id="@+id/background"
         android:src="@drawable/background" />
+=======
+        android:src="@drawable/background"></ImageView>
+>>>>>>> origin/master
 
     <TextView
         android:id="@+id/SelamatDatang"
@@ -25,7 +29,11 @@
         android:text="SELAMAT DATANG\n- JODY MARDIKA -"
         android:textAlignment="center"
         android:textSize="30sp"
+<<<<<<< HEAD
         android:textStyle="bold" />
+=======
+        android:textStyle="bold"></TextView>
+>>>>>>> origin/master
 
     <ProgressBar
         android:id="@+id/progressBar"
@@ -33,6 +41,10 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
+<<<<<<< HEAD
         android:layout_marginBottom="80dp" />
+=======
+        android:layout_marginBottom="30dp"></ProgressBar>
+>>>>>>> origin/master
 
 </RelativeLayout>
